@@ -1,0 +1,6 @@
+{
+  "name": "AmmoVault",
+  "description": "Rifle ammunition catalog and caliber inventory tracker with brand, grain weight, bullet type, round counts, and market price per round.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

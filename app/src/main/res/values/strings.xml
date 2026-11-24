@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AmmoVault</string>
+    <string name="nav_calibers">By Caliber</string>
+    <string name="nav_catalog">Catalog</string>
+    <string name="nav_range_logs">Range</string>
+    <string name="nav_restock">Restock</string>
+    <string name="nav_market">Market</string>
+    <string name="action_add_ammo">Add Ammo</string>
+    <string name="action_save">Save Lot</string>
+    <string name="action_delete">Delete</string>
+    <string name="empty_title">Your Rifle Vault Is Empty</string>
+    <string name="empty_subtitle">Catalog your rifle ammunition by caliber, brand, grain weight, bullet type, and market price per round.</string>
+    <string name="load_sample_catalog">Load Starter Rifle Lots</string>
+    <string name="banner_content_desc">Precision brass rifle cartridges in loading tray</string>
+    <string name="empty_vault_content_desc">Empty tactical ammo case illustration</string>
+    <string name="thresholds_title">Minimum Thresholds</string>
+    <string name="thresholds_subtitle">Set a minimum round count per ammunition type to trigger visual low-stock notifications.</string>
+    <string name="thresholds_add_type">Add Type</string>
+    <string name="thresholds_apply_defaults">Apply Smart Defaults</string>
+    <string name="low_threshold_alert_title">Low Inventory Alert</string>
+    <string name="action_restock">Restock</string>
+    <string name="action_configure_thresholds">Thresholds</string>
+    <string name="price_chart_title">Price History / Round</string>
+    <string name="price_chart_subtitle">CPR trend by caliber from recorded vault snapshots</string>
+    <string name="price_chart_all_calibers">All Calibers</string>
+    <string name="price_chart_empty">Update market prices on your lots to plot CPR price trends over time.</string>
+    <string name="price_chart_touch_hint">Tap or drag across chart to inspect snapshot</string>
+    <string name="price_chart_open_market">Market Ledger</string>
+</resources>
